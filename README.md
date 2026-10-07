@@ -49,33 +49,33 @@ To sketch the given drawing with dimensions using fusion 360 tool.
 ![image](https://user-images.githubusercontent.com/113594316/198206621-6348e8a3-4bbd-4a1f-96d3-db16fbf933d9.png)
 
 ### 10. Finish the Sketch:
-    After completing the sketch and verifying all dimensions, select Finish Sketch. This exits the sketching environment and saves the completed sketch within the design.
+   After completing the sketch and verifying all dimensions, select Finish Sketch. This exits the sketching environment and saves the completed sketch within the design.
 
 
 ![image](https://user-images.githubusercontent.com/113594316/198206639-31c4bdb5-b13e-4106-bcf5-125c294aa03e.png)
 
 ### 11. Create the Drawing:
-    Switch to the Drawing workspace from the completed design. Select the appropriate option to create a drawing from the sketch/model
+  Switch to the Drawing workspace from the completed design. Select the appropriate option to create a drawing from the sketch/model
 
 ![image](https://user-images.githubusercontent.com/113594316/198206697-2e3ead2b-7d1e-436e-bc36-aa2e73c1e78e.png)
 
-12. Insert and Arrange the Views:
-    Place the required views of the sketch/design on the drawing sheet. Adjust the position and scale of the views so that they are clearly visible and properly arranged.
+### 12. Insert and Arrange the Views:
+   Place the required views of the sketch/design on the drawing sheet. Adjust the position and scale of the views so that they are clearly visible and properly arranged.
 
-13. Add Dimensions and Annotations:
-    Add the necessary dimensions, center marks, construction information, and other annotations required for the technical drawing. Ensure that the dimensions are clear and readable.
+### 13. Add Dimensions and Annotations:
+  Add the necessary dimensions, center marks, construction information, and other annotations required for the technical drawing. Ensure that the dimensions are clear and readable.
 
-14. Complete and Verify the Drawing:
-    Check the final drawing for correct geometry, dimensions, view arrangement, and ISO standard representation. Make any necessary corrections before finalizing the drawing.
+### 14. Complete and Verify the Drawing:
+   Check the final drawing for correct geometry, dimensions, view arrangement, and ISO standard representation. Make any necessary corrections before finalizing the drawing.
 
-15. Save the Final Project:
-    Save the completed Fusion 360 design and drawing file with the appropriate project name. T
+### 15. Save the Final Project:
+   Save the completed Fusion 360 design and drawing file with the appropriate project name. T
 
 
 ![image](https://user-images.githubusercontent.com/113594316/198206721-8ad45462-2675-4be2-964f-621c8fc4490e.png)
 
 
-## SKETCHS
+## SKETCHES
 ![image](https://user-images.githubusercontent.com/113594316/198208087-87ed794e-5f1c-4583-82e0-f29699dfc305.png)
 
 ## OUTPUT
@@ -88,4 +88,4 @@ Thus the given sketch is drawn and drafted using fusion 360 tool.
 
 ### ABDULLAH RAHMATH
 ### 26019037
-### 1/10/2026
+### 05/10/2026
